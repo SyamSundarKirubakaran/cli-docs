@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubectl – patch</title>
+    <link>https://syamsundarkirubakaran.github.io/cli-docs/references/kubectl/patch/</link>
+    <description>Recent content in patch on Kubectl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://syamsundarkirubakaran.github.io/cli-docs/references/kubectl/patch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
