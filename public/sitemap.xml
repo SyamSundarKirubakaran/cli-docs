@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/docs/</loc>
+    <lastmod>2020-08-18T13:27:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/background-information/getting-started-with-kubectl/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/background-information/introduction/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/background-information/resources-&#43;-controllers-overview/</loc>
+  </url>
+  
+  <url>
+    <loc>/docs/background-information/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-31T10:49:24+05:30</lastmod>
+  </url>
+  
+</urlset>
